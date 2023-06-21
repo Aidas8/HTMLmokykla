@@ -16,11 +16,20 @@
         </nav>
     </header>
     <main>
+        <img src="img/map.jpg" width="100%" height="400px">
+        <!-- Laukeliai: vardas, el-pastas, klausimas, siusti mygtukas -->
+        <form action="http://localhost/adresas" method="post">
+            <label for="firstname1">Vardas:</label>
+            <input type="text" id="firstname1" name="firstname1"><br><br>
+            <label for="e-mail1">el-pastas:</label>
+            <input type="text" id="e-mail1" name="el-pastas"><br><br>
+            <label for="kalusimas1">Klausimas:</label>
+            <textarea name="message" id="klausimas1" rows="10" cols="10">
+               pateikiamia klausima rastu
+            </textarea><br><br>
 
-
-
-<!--        surasyti pagrindine info apie kontaktus-->
-
+            <input type="submit" value="siusti">
+        </form>
 
 
     </main>
