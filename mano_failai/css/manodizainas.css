@@ -5,8 +5,9 @@ a {
     text-transformation: uppercase;
     }
 
-<div style="display:table;">
-  <div style="display:table-cell;vertical-align:middle;">
-    <div style="margin-left:auto;"></div>
-  </div>
-</div>
+.isdestymas {
+background: blue;
+width: 800px;
+margin-left: auto;
+margin-right: auto;
+}
