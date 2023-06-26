@@ -4,3 +4,9 @@ a {
     text-decotation: none;
     text-transformation: uppercase;
     }
+
+<div style="display:table;">
+  <div style="display:table-cell;vertical-align:middle;">
+    <div style="margin-left:auto;"></div>
+  </div>
+</div>
