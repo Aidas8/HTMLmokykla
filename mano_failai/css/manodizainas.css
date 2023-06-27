@@ -16,3 +16,9 @@ span {
     background-color: yellow;
     color: red;
 }
+
+p {
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
