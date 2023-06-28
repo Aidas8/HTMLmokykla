@@ -7,5 +7,6 @@ main {
     height: 75px;
     margin: 5px;
     border: 10px;
+    display: inline-block;
     /*... ??? ...*/
 }
