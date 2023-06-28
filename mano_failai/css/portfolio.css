@@ -1,0 +1,11 @@
+main {
+    display: block;
+}
+
+.sachmatai > div {
+    width: 75px;
+    height: 75px;
+    margin: 5px;
+    border: 10px;
+    /*... ??? ...*/
+}
