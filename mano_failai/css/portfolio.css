@@ -7,6 +7,13 @@ main {
     height: 75px;
     margin: 5px;
     border: 10px;
-    display: inline-block;
-    /*... ??? ...*/
+    float: left;
+}
+
+.sachmatai > div:nth-child(5n+1){
+    clear: left;
+}
+
+.sachmatai > div.nth-child(4n+2){
+    background-color: lightblue;
 }
