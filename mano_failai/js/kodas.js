@@ -1,7 +1,7 @@
-let x = 5;
-let y = 6;
-let z = x + y;
-console.log(z);
+//let x = 5;
+//let y = 6;
+//let z = x + y;
+//console.log(z);
 
 //x = 50;
 //y = 10;
@@ -17,7 +17,7 @@ console.log(z);
 //dalyba = x / y;
 //console.log(dalyba);
 
-let a = 'Aidas';
-let b = 'Mano vardas yra';
-c = b + a;
-console.log(b + ' : ' + a);
+//let a = 'Aidas';
+//let b = 'Mano vardas yra';
+//c = b + a;
+//console.log(b + ' : ' + a);
