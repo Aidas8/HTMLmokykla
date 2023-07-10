@@ -6,16 +6,19 @@
 //console.log(c + ' ' + 'apskritimo ilgis');
 //console.log(S + ' ' + 'apskritimo plotas');
 
-let vardas = 'Jonas';
-let pozicija = 4;
+//let vardas = 'Jonas';
+//let pozicija = 4;
+//
+//a = pozicija;
+//if (a === 1)
+//{ console.log(vardas + " Gavo Aukso medali");
+//}else if (a === 2)
+//{ console.log(vardas + " Gavo sidabro medali");
+//}else if (a === 3)
+//{ console.log(vardas + " Gavo bronzos medali");
+//}else{
+//console.log(vardas + " nieko negavo");
+//}
 
-a = pozicija;
-if (a === 1)
-{ console.log(vardas + " Gavo Aukso medali");
-}else if (a === 2)
-{ console.log(vardas + " Gavo sidabro medali");
-}else if (a === 3)
-{ console.log(vardas + " Gavo bronzos medali");
-}else{
-console.log(vardas + " nieko negavo");
-}
+//for(let i = 0; i < 17; i+=4)
+//{console.log(i)}
